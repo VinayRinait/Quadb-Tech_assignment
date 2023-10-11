@@ -1,70 +1,64 @@
-# Getting Started with Create React App
+# Quadb Assignment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Deployed URL 👉 [Click here](https://job-app-psi-snowy.vercel.app/)
 
-## Available Scripts
+# Installation
 
-In the project directory, you can run:
+- Install Command:- npm i
+- Run Command:- npm start
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <br/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Let's Dive into What I have made
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Login :
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![Login](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/a6473f12-d8cb-4ab7-8fbe-453966a222ba)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Register :
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Register](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/b2bb1e69-13ec-4524-9e80-e249d18d40fb)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Landing Page :
 
-## Learn More
+![Landing Page](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/18cb49c6-6895-4d12-982c-e49668db94ec)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Jobs Page :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![JobsPage](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/2754580b-ba63-4a5b-9abc-e0a9fcbe6f55)
 
-### Code Splitting
+## Jobs Details Page :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![JobsdetailPage](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/90040e0b-5562-4253-811e-b0cdf55ad531)
 
-### Analyzing the Bundle Size
+## Apply Form :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![ApplyForm](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/fb9a5cb1-c25e-41f7-a3e2-3b24ce4a3587)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## My Learnings
 
-### Advanced Configuration
+On this journey I faced many issues, but I keep motivated myself with patience.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- I learned how to write more efficient and clean code.
 
-### Deployment
+- Even though I also learned how to plan a project and how to execute it step by step.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+- By this Project I have learned how to improve the productivity.
 
-### `npm run build` fails to minify
+- I also got a glimpse of using GitHub for the version control.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+### Thank you
