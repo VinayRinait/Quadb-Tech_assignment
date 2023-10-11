@@ -26,32 +26,38 @@
 
 ## Register :
 
-![Register](![Screenshot (121)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/21b188c7-e363-4bd1-a7c1-e8bcf3219fec)
+![Register](![Screenshot (121)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/d531d808-3165-437f-8e6e-c8b142f6574c)
+
 )
 
 ## Landing Page :
 
-![Landing Page](![Screenshot (122)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/775c10ec-5001-41f4-bc61-42c137010121)
+![Landing Page](![Screenshot (122)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/a4632a19-4b9d-4ea2-a955-7dba8f892628)
+
 )
 
 ## Jobs Page :
 
-![JobsPage](![Screenshot (123)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/5937f62a-38fc-4ca8-9a2a-a204d4c082fb)
+![JobsPage](![Screenshot (123)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/484e6bed-ee6b-49b8-8f44-e6ca9e21b448)
+
 )
 
 ## Jobs Details Page :
 
-![JobsdetailPage](![Screenshot (124)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/f8c2fe00-1ec2-4ce2-8be1-c4da5b0e1f18)
+![JobsdetailPage](![Screenshot (124)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/37bce88a-7202-4cb1-91e5-e6d907207283)
+
 )
 
 ## Apply Form :
 
-![ApplyForm](![Screenshot (125)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/012efac2-2ad6-40b8-ade8-2a561ceef6aa)
+![ApplyForm](![Screenshot (125)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/4ab5bf26-771b-4962-a061-0c7df8be4a45)
+
 )
 ## View Application :
 
-![ViewApplication](![Screenshot (126)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/9da5159b-64b0-40a4-90e6-298379dc1128)
-)
+![ViewApplication](![Screenshot (126)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/896f8e7d-0bae-46fc-a8e5-a51cdee0e334)
+
+
 )
 
 
