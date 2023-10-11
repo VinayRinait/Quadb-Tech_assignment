@@ -20,27 +20,38 @@
 
 ## Login :
 
-![Login](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/a6473f12-d8cb-4ab7-8fbe-453966a222ba)
+![Login](![Screenshot (120)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/d04fd249-9dd6-4987-a953-b85658e11f7e)
+)
 
 ## Register :
 
-![Register](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/b2bb1e69-13ec-4524-9e80-e249d18d40fb)
+![Register](![Screenshot (121)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/21b188c7-e363-4bd1-a7c1-e8bcf3219fec)
+)
 
 ## Landing Page :
 
-![Landing Page](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/18cb49c6-6895-4d12-982c-e49668db94ec)
+![Landing Page](![Screenshot (122)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/775c10ec-5001-41f4-bc61-42c137010121)
+)
 
 ## Jobs Page :
 
-![JobsPage](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/2754580b-ba63-4a5b-9abc-e0a9fcbe6f55)
+![JobsPage](![Screenshot (123)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/5937f62a-38fc-4ca8-9a2a-a204d4c082fb)
+)
 
 ## Jobs Details Page :
 
-![JobsdetailPage](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/90040e0b-5562-4253-811e-b0cdf55ad531)
+![JobsdetailPage](![Screenshot (124)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/f8c2fe00-1ec2-4ce2-8be1-c4da5b0e1f18)
+)
 
 ## Apply Form :
 
-![ApplyForm](https://github.com/SumanBlswas/quadb_assignment/assets/112753516/fb9a5cb1-c25e-41f7-a3e2-3b24ce4a3587)
+![ApplyForm](![Screenshot (125)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/012efac2-2ad6-40b8-ade8-2a561ceef6aa)
+)
+## View Application :
+
+![ViewApplication](![Screenshot (126)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/9da5159b-64b0-40a4-90e6-298379dc1128)
+)
+)
 
 
 ## My Learnings
@@ -51,9 +62,7 @@ On this journey I faced many issues, but I keep motivated myself with patience.
 
 - Even though I also learned how to plan a project and how to execute it step by step.
 
-- By this Project I have learned how to improve the productivity.
-
-- I also got a glimpse of using GitHub for the version control.
+-
 
 
 
