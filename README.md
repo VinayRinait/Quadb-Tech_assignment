@@ -20,7 +20,8 @@
 
 ## Login :
 
-![Login]((https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/d04fd249-9dd6-4987-a953-b85658e11f7e)
+![Login]((![Screenshot (120)](https://github.com/VinayRinait/Quadb-Tech_assignment/assets/108014776/b229fd1e-91e8-40c6-8ec6-e1cb53b9296a)
+)
 )
 
 ## Register :
